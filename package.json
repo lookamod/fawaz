@@ -7,7 +7,8 @@
     ],
   "scripts": {
     "start": [
-      "node me.js"
+      "node me.js",
+      "node me2.js"
       
       ]
   },
