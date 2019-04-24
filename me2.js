@@ -171,6 +171,7 @@ var interval = setInterval (function () {
         client12.channels.get("570407001624936465").send(Math.random().toString(36).substring(7)) 
 
 }, 312000);
+});
 
 const client12 = new Discord.Client();
 client12.on("ready", () => {
