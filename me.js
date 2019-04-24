@@ -298,7 +298,7 @@ client20.login(process.env.D20);
 client1.on('message', msg => {
     let ownerid = '546841063827177472';
     if(msg.author.id === ownerid){
-        if(msg.content.startsWith('c')){
+        if(msg.content.startsWith('d')){
 
             if(msg.isMentioned(client1.user)){
                 farm.set(`farm`, 'blah blah')
@@ -319,7 +319,7 @@ client1.on('message', msg => {
 client2.on('message', msg => {
     let ownerid = '546841063827177472';
     if(msg.author.id === ownerid){
-        if(msg.content.startsWith('c')){
+        if(msg.content.startsWith('d')){
 
             if(msg.isMentioned(client2.user)){
                 farm.set(`farm`, 'blah blah')
@@ -340,7 +340,7 @@ client2.on('message', msg => {
 client3.on('message', msg => {
     let ownerid = '546841063827177472';
     if(msg.author.id === ownerid){
-        if(msg.content.startsWith('c')){
+        if(msg.content.startsWith('d')){
 
             if(msg.isMentioned(client3.user)){
                 farm.set(`farm`, 'blah blah')
@@ -361,7 +361,7 @@ client3.on('message', msg => {
 client4.on('message', msg => {
     let ownerid = '546841063827177472';
     if(msg.author.id === ownerid){
-        if(msg.content.startsWith('c')){
+        if(msg.content.startsWith('d')){
 
             if(msg.isMentioned(client4.user)){
                 farm.set(`farm`, 'blah blah')
@@ -382,7 +382,7 @@ client4.on('message', msg => {
 client5.on('message', msg => {
     let ownerid = '546841063827177472';
     if(msg.author.id === ownerid){
-        if(msg.content.startsWith('c')){
+        if(msg.content.startsWith('d')){
 
             if(msg.isMentioned(client5.user)){
                 farm.set(`farm`, 'blah blah')
@@ -403,7 +403,7 @@ client5.on('message', msg => {
 client6.on('message', msg => {
     let ownerid = '546841063827177472';
     if(msg.author.id === ownerid){
-        if(msg.content.startsWith('c')){
+        if(msg.content.startsWith('d')){
 
             if(msg.isMentioned(client6.user)){
                 farm.set(`farm`, 'blah blah')
@@ -424,7 +424,7 @@ client6.on('message', msg => {
 client7.on('message', msg => {
     let ownerid = '546841063827177472';
     if(msg.author.id === ownerid){
-        if(msg.content.startsWith('c')){
+        if(msg.content.startsWith('d')){
 
             if(msg.isMentioned(client7.user)){
                 farm.set(`farm`, 'blah blah')
@@ -445,7 +445,7 @@ client7.on('message', msg => {
 client8.on('message', msg => {
     let ownerid = '546841063827177472';
     if(msg.author.id === ownerid){
-        if(msg.content.startsWith('c')){
+        if(msg.content.startsWith('d')){
 
             if(msg.isMentioned(client8.user)){
                 farm.set(`farm`, 'blah blah')
@@ -466,7 +466,7 @@ client8.on('message', msg => {
 client9.on('message', msg => {
     let ownerid = '546841063827177472';
     if(msg.author.id === ownerid){
-        if(msg.content.startsWith('c')){
+        if(msg.content.startsWith('d')){
 
             if(msg.isMentioned(client9.user)){
                 farm.set(`farm`, 'blah blah')
@@ -487,7 +487,7 @@ client9.on('message', msg => {
 client10.on('message', msg => {
     let ownerid = '546841063827177472';
     if(msg.author.id === ownerid){
-        if(msg.content.startsWith('c')){
+        if(msg.content.startsWith('d')){
 
             if(msg.isMentioned(client10.user)){
                 farm.set(`farm`, 'blah blah')
@@ -508,7 +508,7 @@ client10.on('message', msg => {
 client11.on('message', msg => {
     let ownerid = '546841063827177472';
     if(msg.author.id === ownerid){
-        if(msg.content.startsWith('c')){
+        if(msg.content.startsWith('d')){
 
             if(msg.isMentioned(client11.user)){
                 farm.set(`farm`, 'blah blah')
@@ -529,7 +529,7 @@ client11.on('message', msg => {
 client12.on('message', msg => {
     let ownerid = '546841063827177472';
     if(msg.author.id === ownerid){
-        if(msg.content.startsWith('c')){
+        if(msg.content.startsWith('d')){
 
             if(msg.isMentioned(client12.user)){
                 farm.set(`farm`, 'blah blah')
@@ -550,7 +550,7 @@ client12.on('message', msg => {
 client13.on('message', msg => {
     let ownerid = '546841063827177472';
     if(msg.author.id === ownerid){
-        if(msg.content.startsWith('c')){
+        if(msg.content.startsWith('d')){
 
             if(msg.isMentioned(client13.user)){
                 farm.set(`farm`, 'blah blah')
@@ -571,7 +571,7 @@ client13.on('message', msg => {
 client14.on('message', msg => {
     let ownerid = '546841063827177472';
     if(msg.author.id === ownerid){
-        if(msg.content.startsWith('c')){
+        if(msg.content.startsWith('d')){
 
             if(msg.isMentioned(client14.user)){
                 farm.set(`farm`, 'blah blah')
@@ -592,7 +592,7 @@ client14.on('message', msg => {
 client15.on('message', msg => {
     let ownerid = '546841063827177472';
     if(msg.author.id === ownerid){
-        if(msg.content.startsWith('c')){
+        if(msg.content.startsWith('d')){
 
             if(msg.isMentioned(client15.user)){
                 farm.set(`farm`, 'blah blah')
@@ -613,7 +613,7 @@ client15.on('message', msg => {
 client16.on('message', msg => {
     let ownerid = '546841063827177472';
     if(msg.author.id === ownerid){
-        if(msg.content.startsWith('c')){
+        if(msg.content.startsWith('d')){
 
             if(msg.isMentioned(client16.user)){
                 farm.set(`farm`, 'blah blah')
@@ -634,7 +634,7 @@ client16.on('message', msg => {
 client17.on('message', msg => {
     let ownerid = '546841063827177472';
     if(msg.author.id === ownerid){
-        if(msg.content.startsWith('c')){
+        if(msg.content.startsWith('d')){
 
             if(msg.isMentioned(client17.user)){
                 farm.set(`farm`, 'blah blah')
@@ -655,7 +655,7 @@ client17.on('message', msg => {
 client18.on('message', msg => {
     let ownerid = '546841063827177472';
     if(msg.author.id === ownerid){
-        if(msg.content.startsWith('c')){
+        if(msg.content.startsWith('d')){
 
             if(msg.isMentioned(client18.user)){
                 farm.set(`farm`, 'blah blah')
@@ -676,7 +676,7 @@ client18.on('message', msg => {
 client19.on('message', msg => {
     let ownerid = '546841063827177472';
     if(msg.author.id === ownerid){
-        if(msg.content.startsWith('c')){
+        if(msg.content.startsWith('d')){
 
             if(msg.isMentioned(client19.user)){
                 farm.set(`farm`, 'blah blah')
@@ -697,7 +697,7 @@ client19.on('message', msg => {
 client20.on('message', msg => {
     let ownerid = '546841063827177472';
     if(msg.author.id === ownerid){
-        if(msg.content.startsWith('c')){
+        if(msg.content.startsWith('d')){
 
             if(msg.isMentioned(client20.user)){
                 farm.set(`farm`, 'blah blah')
