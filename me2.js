@@ -173,19 +173,6 @@ var interval = setInterval (function () {
 }, 312000);
 });
 
-const client12 = new Discord.Client();
-client12.on("ready", () => {
-client12.user.setPresence({ game: { name: 'with depression' }, status: 'invisible' });
-var interval = setInterval (function () {
-
-        client12.channels.get("570407001624936465").send(Math.random().toString(36).substring(7)) 
-
-}, 312000);
-
-
-
-
-});
 client12.login(process.env.D32);
 
 const client13 = new Discord.Client();
