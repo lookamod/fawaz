@@ -16,7 +16,7 @@ client1.login(process.env.D1);
 
 const client2 = new Discord.Client();
 client2.on("ready", () => {
-
+client2.user.setPresence({ game: { name: 'with depression' }, status: 'invisible' });
 var interval = setInterval (function () {
 
         client2.channels.get("570405467424030761").send(Math.random().toString(36).substring(7)) 
@@ -28,10 +28,10 @@ var interval = setInterval (function () {
 
 });
 client2.login(process.env.D2);
-client2.user.setPresence({ game: { name: 'with depression' }, status: 'invisible' });
+
 const client3 = new Discord.Client();
 client3.on("ready", () => {
-
+client3.user.setPresence({ game: { name: 'with depression' }, status: 'invisible' });
 var interval = setInterval (function () {
 
         client3.channels.get("570405467424030761").send(Math.random().toString(36).substring(7)) 
@@ -43,10 +43,10 @@ var interval = setInterval (function () {
 
 });
 client3.login(process.env.D3);
-client3.user.setPresence({ game: { name: 'with depression' }, status: 'invisible' });
+
 const client4 = new Discord.Client();
 client4.on("ready", () => {
-
+client4.user.setPresence({ game: { name: 'with depression' }, status: 'invisible' });
 var interval = setInterval (function () {
 
         client4.channels.get("570405467424030761").send(Math.random().toString(36).substring(7)) 
