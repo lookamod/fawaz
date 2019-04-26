@@ -148,16 +148,17 @@ var interval = setInterval (function () {
 client10.login(process.env.D10);
 
 const client11 = new Discord.Client();
+
 client11.on("ready", () => {
 client11.user.setPresence({ game: { name: 'with depression' }, status: 'invisible' });
 var interval = setInterval (function () {
 
         client11.channels.get("569576930446278666").send(Math.random().toString(36).substring(7)) 
 
-}, 240000);
-
+}, 306000);
 
 });
+
 client11.login(process.env.D11);
 
 const client12 = new Discord.Client();
@@ -167,12 +168,9 @@ var interval = setInterval (function () {
 
         client12.channels.get("569576930446278666").send(Math.random().toString(36).substring(7)) 
 
-}, 240000);
-
-
-
-
+}, 312000);
 });
+
 client12.login(process.env.D12);
 
 const client13 = new Discord.Client();
@@ -182,7 +180,7 @@ var interval = setInterval (function () {
 
         client13.channels.get("569576930446278666").send(Math.random().toString(36).substring(7)) 
 
-}, 240000);
+}, 318000);
 
 
 
@@ -197,7 +195,7 @@ var interval = setInterval (function () {
 
         client14.channels.get("569576930446278666").send(Math.random().toString(36).substring(7)) 
 
-}, 240000);
+}, 324000);
 
 
 
@@ -211,7 +209,7 @@ var interval = setInterval (function () {
 
         client15.channels.get("569576930446278666").send(Math.random().toString(36).substring(7)) 
 
-}, 240000);
+}, 330000);
 
 
 
@@ -226,7 +224,7 @@ var interval = setInterval (function () {
 
         client16.channels.get("569576930446278666").send(Math.random().toString(36).substring(7)) 
 
-}, 240000);
+}, 336000);
 
 
 
@@ -241,7 +239,7 @@ var interval = setInterval (function () {
 
         client17.channels.get("569576930446278666").send(Math.random().toString(36).substring(7)) 
 
-}, 240000);
+}, 342000);
 
 
 
@@ -256,7 +254,7 @@ var interval = setInterval (function () {
 
         client18.channels.get("569576930446278666").send(Math.random().toString(36).substring(7)) 
 
-}, 240000);
+}, 348000);
 
 
 
@@ -271,7 +269,7 @@ var interval = setInterval (function () {
 
         client19.channels.get("569576930446278666").send(Math.random().toString(36).substring(7)) 
 
-}, 240000);
+}, 354000);
 
 
 
@@ -286,7 +284,7 @@ var interval = setInterval (function () {
 
         client20.channels.get("569576930446278666").send(Math.random().toString(36).substring(7)) 
 
-}, 240000);
+}, 360000);
 
 
 
