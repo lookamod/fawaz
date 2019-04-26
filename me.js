@@ -1,4 +1,3 @@
-
 const Discord = require('discord.js');
 const Enmap = require(`enmap`);
 const farm = new Enmap();
@@ -10,7 +9,7 @@ var interval = setInterval (function () {
 
         client1.channels.get("569576930446278666").send(Math.random().toString(36).substring(7)) 
 
-}, 524000);
+}, 240000);
 
 });
 client1.login(process.env.D1);
@@ -22,7 +21,7 @@ var interval = setInterval (function () {
 
         client2.channels.get("569576930446278666").send(Math.random().toString(36).substring(7)) 
 
-}, 542000);
+}, 240000);
 
 
 
@@ -37,7 +36,7 @@ var interval = setInterval (function () {
 
         client3.channels.get("569576930446278666").send(Math.random().toString(36).substring(7)) 
 
-}, 560000);
+}, 240000);
 
 
 
@@ -52,7 +51,7 @@ var interval = setInterval (function () {
 
         client4.channels.get("569576930446278666").send(Math.random().toString(36).substring(7)) 
 
-}, 578000);
+}, 240000);
 
 
 
@@ -68,7 +67,7 @@ var interval = setInterval (function () {
 
         client5.channels.get("569576930446278666").send(Math.random().toString(36).substring(7)) 
 
-}, 596000);
+}, 240000);
 
 
 
@@ -82,7 +81,7 @@ var interval = setInterval (function () {
 
         client6.channels.get("569576930446278666").send(Math.random().toString(36).substring(7)) 
 
-}, 614000);
+}, 240000);
 
 
 
@@ -97,7 +96,7 @@ var interval = setInterval (function () {
 
         client7.channels.get("569576930446278666").send(Math.random().toString(36).substring(7)) 
 
-}, 632000);
+}, 240000);
 
 
 
@@ -112,7 +111,7 @@ var interval = setInterval (function () {
 
         client8.channels.get("569576930446278666").send(Math.random().toString(36).substring(7)) 
 
-}, 650000);
+}, 240000);
 
 
 
@@ -126,7 +125,7 @@ var interval = setInterval (function () {
 
         client9.channels.get("569576930446278666").send(Math.random().toString(36).substring(7)) 
 
-}, 668000);
+}, 240000);
 
 
 
@@ -140,7 +139,7 @@ var interval = setInterval (function () {
 
         client10.channels.get("569576930446278666").send(Math.random().toString(36).substring(7)) 
 
-}, 684000);
+}, 240000);
 
 
 
@@ -155,7 +154,7 @@ var interval = setInterval (function () {
 
         client11.channels.get("569576930446278666").send(Math.random().toString(36).substring(7)) 
 
-}, 702000);
+}, 240000);
 
 
 });
@@ -168,7 +167,7 @@ var interval = setInterval (function () {
 
         client12.channels.get("569576930446278666").send(Math.random().toString(36).substring(7)) 
 
-}, 362000);
+}, 240000);
 
 
 
@@ -183,7 +182,7 @@ var interval = setInterval (function () {
 
         client13.channels.get("569576930446278666").send(Math.random().toString(36).substring(7)) 
 
-}, 380000);
+}, 240000);
 
 
 
@@ -198,7 +197,7 @@ var interval = setInterval (function () {
 
         client14.channels.get("569576930446278666").send(Math.random().toString(36).substring(7)) 
 
-}, 398000);
+}, 240000);
 
 
 
@@ -212,7 +211,7 @@ var interval = setInterval (function () {
 
         client15.channels.get("569576930446278666").send(Math.random().toString(36).substring(7)) 
 
-}, 416000);
+}, 240000);
 
 
 
@@ -227,7 +226,7 @@ var interval = setInterval (function () {
 
         client16.channels.get("569576930446278666").send(Math.random().toString(36).substring(7)) 
 
-}, 434000);
+}, 240000);
 
 
 
@@ -242,7 +241,7 @@ var interval = setInterval (function () {
 
         client17.channels.get("569576930446278666").send(Math.random().toString(36).substring(7)) 
 
-}, 452000);
+}, 240000);
 
 
 
@@ -257,7 +256,7 @@ var interval = setInterval (function () {
 
         client18.channels.get("569576930446278666").send(Math.random().toString(36).substring(7)) 
 
-}, 470000);
+}, 240000);
 
 
 
@@ -272,7 +271,7 @@ var interval = setInterval (function () {
 
         client19.channels.get("569576930446278666").send(Math.random().toString(36).substring(7)) 
 
-}, 488000);
+}, 240000);
 
 
 
@@ -287,7 +286,7 @@ var interval = setInterval (function () {
 
         client20.channels.get("569576930446278666").send(Math.random().toString(36).substring(7)) 
 
-}, 506000);
+}, 240000);
 
 
 
