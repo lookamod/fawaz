@@ -9,7 +9,7 @@
     "start": [
       "node me.js",
       "node me2.js"
-      
+      "node test.js"
       ]
   },
  "dependencies": {
