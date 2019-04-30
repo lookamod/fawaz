@@ -215,7 +215,7 @@ client13.on("ready", () => {
 
 }, 240000);
 
-
+});
 
 
 client13.login(process.env.S13);
@@ -434,7 +434,7 @@ client26.on("ready", () => {
 
 }, 240000);
 
-
+});
 
 
 client26.login(process.env.S26);
