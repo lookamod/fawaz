@@ -206,8 +206,6 @@ client12.on("ready", () => {
 
 
 
-client50.login(process.env.S50);
-
 client1.on('message', msg => {
     let ownerid = '560394135115268106';
     if(msg.author.id === ownerid){
