@@ -199,8 +199,7 @@ client12.on("ready", () => {
 }, 180000);
 
 });
-
-
+client12.login(process.env.S12);
 
 
 
