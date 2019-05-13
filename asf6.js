@@ -348,7 +348,7 @@ client21.on("ready", () => {
 	      var interval = setInterval (function () {
         client21.channels.get("577489715817611274").send(Math.random().toString(36).substring(7)) 
 
-}, 240000);
+}, 24000);
 
 });
 
@@ -358,20 +358,7 @@ client21.login(process.env.S21);
 
 
 
-const client22 = new Discord.Client();
 
-client22.on("ready", () => {
-
-	      var interval = setInterval (function () {
-        client22.channels.get("577489715817611274").send(Math.random().toString(36).substring(7)) 
-
-}, 240000);
-
-});
-
-
-
-client22.login(process.env.S22);
 
 
 const client23 = new Discord.Client();
