@@ -26,8 +26,8 @@
       ]
   },
  "dependencies": {
-    "discord.js": "11.3.2",
-    "enmap": "4.3.3"
+    "discord.js": "11.5.0",
+    "enmap": "4.8.7"
 
   }
 }
