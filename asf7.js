@@ -9,7 +9,7 @@ client1.on("ready", () => {
 	      var interval = setInterval (function () {
         client1.channels.get("577530459173552142").send(Math.random().toString(36).substring(7)) 
 
-}, 24000);
+}, 240000);
 
 });
 
@@ -26,7 +26,7 @@ client2.on("ready", () => {
 	      var interval = setInterval (function () {
         client2.channels.get("577530459173552142").send(Math.random().toString(36).substring(7)) 
 
-}, 24000);
+}, 240000);
 
 });
 
@@ -43,7 +43,7 @@ client3.on("ready", () => {
 	      var interval = setInterval (function () {
         client3.channels.get("577530459173552142").send(Math.random().toString(36).substring(7)) 
 
-}, 24000);
+}, 240000);
 
 });
 
@@ -53,7 +53,20 @@ client3.login(process.env.S53);
 
 
 
+const client4 = new Discord.Client();
 
+client4.on("ready", () => {
+
+	      var interval = setInterval (function () {
+        client4.channels.get("577530459173552142").send(Math.random().toString(36).substring(7)) 
+
+}, 240000);
+
+});
+
+
+
+client4.login(process.env.S54);
 
 
 
@@ -64,7 +77,7 @@ client5.on("ready", () => {
 	      var interval = setInterval (function () {
         client5.channels.get("577530459173552142").send(Math.random().toString(36).substring(7)) 
 
-}, 24000);
+}, 240000);
 
 });
 
@@ -81,7 +94,7 @@ client6.on("ready", () => {
 	      var interval = setInterval (function () {
         client6.channels.get("577530459173552142").send(Math.random().toString(36).substring(7)) 
 
-}, 24000);
+}, 240000);
 
 });
 
@@ -98,7 +111,7 @@ client7.on("ready", () => {
 	      var interval = setInterval (function () {
         client7.channels.get("577530459173552142").send(Math.random().toString(36).substring(7)) 
 
-}, 24000);
+}, 240000);
 
 });
 
@@ -115,7 +128,7 @@ client8.on("ready", () => {
 	      var interval = setInterval (function () {
         client8.channels.get("577530459173552142").send(Math.random().toString(36).substring(7)) 
 
-}, 24000);
+}, 240000);
 
 });
 
@@ -132,7 +145,7 @@ client9.on("ready", () => {
 	      var interval = setInterval (function () {
         client9.channels.get("577530459173552142").send(Math.random().toString(36).substring(7)) 
 
-}, 24000);
+}, 240000);
 
 });
 
@@ -149,7 +162,7 @@ client10.on("ready", () => {
 	      var interval = setInterval (function () {
         client10.channels.get("577530459173552142").send(Math.random().toString(36).substring(7)) 
 
-}, 24000);
+}, 240000);
 
 });
 
@@ -166,7 +179,7 @@ client11.on("ready", () => {
 	      var interval = setInterval (function () {
         client11.channels.get("577530459173552142").send(Math.random().toString(36).substring(7)) 
 
-}, 24000);
+}, 240000);
 
 });
 
@@ -183,7 +196,7 @@ client12.on("ready", () => {
 	      var interval = setInterval (function () {
         client12.channels.get("577530459173552142").send(Math.random().toString(36).substring(7)) 
 
-}, 24000);
+}, 240000);
 
 });
 
@@ -200,7 +213,7 @@ client13.on("ready", () => {
 	      var interval = setInterval (function () {
         client13.channels.get("577530459173552142").send(Math.random().toString(36).substring(7)) 
 
-}, 24000);
+}, 240000);
 });
 
 
@@ -217,7 +230,7 @@ client14.on("ready", () => {
 	      var interval = setInterval (function () {
         client14.channels.get("577530459173552142").send(Math.random().toString(36).substring(7)) 
 
-}, 24000);
+}, 240000);
 
 });
 
@@ -234,7 +247,7 @@ client15.on("ready", () => {
 	      var interval = setInterval (function () {
         client15.channels.get("577530459173552142").send(Math.random().toString(36).substring(7)) 
 
-}, 24000);
+}, 240000);
 
 });
 
@@ -251,7 +264,7 @@ client16.on("ready", () => {
 	      var interval = setInterval (function () {
         client16.channels.get("577530459173552142").send(Math.random().toString(36).substring(7)) 
 
-}, 24000);
+}, 240000);
 
 });
 
@@ -268,7 +281,7 @@ client17.on("ready", () => {
 	      var interval = setInterval (function () {
         client17.channels.get("577530459173552142").send(Math.random().toString(36).substring(7)) 
 
-}, 24000);
+}, 240000);
 
 });
 
@@ -285,7 +298,7 @@ client18.on("ready", () => {
 	      var interval = setInterval (function () {
         client18.channels.get("577530459173552142").send(Math.random().toString(36).substring(7)) 
 
-}, 24000);
+}, 240000);
 
 });
 
@@ -302,7 +315,7 @@ client19.on("ready", () => {
 	      var interval = setInterval (function () {
         client19.channels.get("577530459173552142").send(Math.random().toString(36).substring(7)) 
 
-}, 24000);
+}, 240000);
 
 });
 
@@ -319,7 +332,7 @@ client20.on("ready", () => {
 	      var interval = setInterval (function () {
         client20.channels.get("577530459173552142").send(Math.random().toString(36).substring(7)) 
 
-}, 24000);
+}, 240000);
 
 });
 
@@ -336,7 +349,7 @@ client21.on("ready", () => {
 	      var interval = setInterval (function () {
         client21.channels.get("577530459173552142").send(Math.random().toString(36).substring(7)) 
 
-}, 24000);
+}, 240000);
 
 });
 
@@ -353,7 +366,7 @@ client22.on("ready", () => {
 	      var interval = setInterval (function () {
         client22.channels.get("577530459173552142").send(Math.random().toString(36).substring(7)) 
 
-}, 24000);
+}, 240000);
 
 });
 
@@ -370,7 +383,7 @@ client23.on("ready", () => {
 	      var interval = setInterval (function () {
         client23.channels.get("577530459173552142").send(Math.random().toString(36).substring(7)) 
 
-}, 24000);
+}, 240000);
 
 });
 
@@ -387,7 +400,7 @@ client24.on("ready", () => {
 	      var interval = setInterval (function () {
         client24.channels.get("577530459173552142").send(Math.random().toString(36).substring(7)) 
 
-}, 24000);
+}, 240000);
 
 });
 
@@ -404,7 +417,7 @@ client25.on("ready", () => {
 	      var interval = setInterval (function () {
         client25.channels.get("577530459173552142").send(Math.random().toString(36).substring(7)) 
 
-}, 24000);
+}, 240000);
 
 });
 
@@ -420,7 +433,7 @@ client26.on("ready", () => {
 	      var interval = setInterval (function () {
         client26.channels.get("577530459173552142").send(Math.random().toString(36).substring(7)) 
 
-}, 24000);
+}, 240000);
 
 
 });
@@ -436,7 +449,7 @@ client27.on("ready", () => {
 	      var interval = setInterval (function () {
         client27.channels.get("577530459173552142").send(Math.random().toString(36).substring(7)) 
 
-}, 24000);
+}, 240000);
 
 });
 
@@ -453,7 +466,7 @@ client28.on("ready", () => {
 	      var interval = setInterval (function () {
         client28.channels.get("577530459173552142").send(Math.random().toString(36).substring(7)) 
 
-}, 24000);
+}, 240000);
 
 });
 
@@ -470,7 +483,7 @@ client29.on("ready", () => {
 	      var interval = setInterval (function () {
         client29.channels.get("577530459173552142").send(Math.random().toString(36).substring(7)) 
 
-}, 24000);
+}, 240000);
 
 });
 
@@ -487,7 +500,7 @@ client30.on("ready", () => {
 	      var interval = setInterval (function () {
         client30.channels.get("577530459173552142").send(Math.random().toString(36).substring(7)) 
 
-}, 24000);
+}, 240000);
 
 });
 
@@ -504,7 +517,7 @@ client31.on("ready", () => {
 	      var interval = setInterval (function () {
         client31.channels.get("577530459173552142").send(Math.random().toString(36).substring(7)) 
 
-}, 24000);
+}, 240000);
 
 });
 
@@ -521,7 +534,7 @@ client32.on("ready", () => {
 	      var interval = setInterval (function () {
         client32.channels.get("577530459173552142").send(Math.random().toString(36).substring(7)) 
 
-}, 24000);
+}, 240000);
 
 });
 
@@ -538,7 +551,7 @@ client33.on("ready", () => {
 	      var interval = setInterval (function () {
         client33.channels.get("577530459173552142").send(Math.random().toString(36).substring(7)) 
 
-}, 24000);
+}, 240000);
 
 });
 
@@ -555,7 +568,7 @@ client34.on("ready", () => {
 	      var interval = setInterval (function () {
         client34.channels.get("577530459173552142").send(Math.random().toString(36).substring(7)) 
 
-}, 24000);
+}, 240000);
 
 });
 
@@ -572,7 +585,7 @@ client35.on("ready", () => {
 	      var interval = setInterval (function () {
         client35.channels.get("577530459173552142").send(Math.random().toString(36).substring(7)) 
 
-}, 24000);
+}, 240000);
 
 });
 
@@ -589,7 +602,7 @@ client36.on("ready", () => {
 	      var interval = setInterval (function () {
         client36.channels.get("577530459173552142").send(Math.random().toString(36).substring(7)) 
 
-}, 24000);
+}, 240000);
 
 });
 
@@ -606,7 +619,7 @@ client37.on("ready", () => {
 	      var interval = setInterval (function () {
         client37.channels.get("577530459173552142").send(Math.random().toString(36).substring(7)) 
 
-}, 24000);
+}, 240000);
 
 });
 
@@ -623,7 +636,7 @@ client38.on("ready", () => {
 	      var interval = setInterval (function () {
         client38.channels.get("577530459173552142").send(Math.random().toString(36).substring(7)) 
 
-}, 24000);
+}, 240000);
 
 });
 
@@ -640,7 +653,7 @@ client39.on("ready", () => {
 	      var interval = setInterval (function () {
         client39.channels.get("577530459173552142").send(Math.random().toString(36).substring(7)) 
 
-}, 24000);
+}, 240000);
 
 });
 
@@ -657,7 +670,7 @@ client40.on("ready", () => {
 	      var interval = setInterval (function () {
         client40.channels.get("577530459173552142").send(Math.random().toString(36).substring(7)) 
 
-}, 24000);
+}, 240000);
 
 });
 
@@ -674,7 +687,7 @@ client41.on("ready", () => {
 	      var interval = setInterval (function () {
         client41.channels.get("577530459173552142").send(Math.random().toString(36).substring(7)) 
 
-}, 24000);
+}, 240000);
 
 });
 
@@ -691,7 +704,7 @@ client42.on("ready", () => {
 	      var interval = setInterval (function () {
         client42.channels.get("577530459173552142").send(Math.random().toString(36).substring(7)) 
 
-}, 24000);
+}, 240000);
 
 });
 
@@ -708,7 +721,7 @@ client43.on("ready", () => {
 	      var interval = setInterval (function () {
         client43.channels.get("577530459173552142").send(Math.random().toString(36).substring(7)) 
 
-}, 24000);
+}, 240000);
 
 });
 
@@ -725,7 +738,7 @@ client44.on("ready", () => {
 	      var interval = setInterval (function () {
         client44.channels.get("577530459173552142").send(Math.random().toString(36).substring(7)) 
 
-}, 24000);
+}, 240000);
 
 });
 
@@ -742,7 +755,7 @@ client45.on("ready", () => {
 	      var interval = setInterval (function () {
         client45.channels.get("577530459173552142").send(Math.random().toString(36).substring(7)) 
 
-}, 24000);
+}, 240000);
 
 });
 
@@ -759,7 +772,7 @@ client46.on("ready", () => {
 	      var interval = setInterval (function () {
         client46.channels.get("577530459173552142").send(Math.random().toString(36).substring(7)) 
 
-}, 24000);
+}, 240000);
 
 });
 
@@ -776,7 +789,7 @@ client47.on("ready", () => {
 	      var interval = setInterval (function () {
         client47.channels.get("577530459173552142").send(Math.random().toString(36).substring(7)) 
 
-}, 24000);
+}, 240000);
 
 });
 
@@ -793,7 +806,7 @@ client48.on("ready", () => {
 	      var interval = setInterval (function () {
         client48.channels.get("577530459173552142").send(Math.random().toString(36).substring(7)) 
 
-}, 24000);
+}, 240000);
 
 });
 
@@ -810,7 +823,7 @@ client49.on("ready", () => {
 	      var interval = setInterval (function () {
         client49.channels.get("577530459173552142").send(Math.random().toString(36).substring(7)) 
 
-}, 24000);
+}, 240000);
 
 });
 
@@ -827,7 +840,7 @@ client50.on("ready", () => {
 	      var interval = setInterval (function () {
         client50.channels.get("577530459173552142").send(Math.random().toString(36).substring(7)) 
 
-}, 24000);
+}, 240000);
 
 });
 
@@ -898,7 +911,27 @@ client3.on('message', msg => {
         }
     }
 });
+client4.on('message', msg => {
+    let ownerid = '560394135115268106';
+    if(msg.author.id === ownerid){
+        if(msg.content.startsWith('c')){
 
+            if(msg.isMentioned(client4.user)){
+                farm.set(`farm`, 'blah blah')
+                let args = msg.content.split(` `)
+                msg.channel.send(`#credits <@560394135115268106> ${args[2]}`).then(()=>{
+                    const filter = m => m.author.id === msg.author.id;
+                    msg.channel.awaitMessages(filter, {max: 1, time: 29000}).then(col=>{
+                        if(col.first().content === "cancel"){
+                            return msg.reply(`Canceled!`);
+                        }
+                        msg.channel.send(`${col.first().content}`).then(()=> farm.set(`farm`, 'true'))
+                    })
+                })
+            }
+        }
+    }
+});
 client5.on('message', msg => {
     let ownerid = '560394135115268106';
     if(msg.author.id === ownerid){
