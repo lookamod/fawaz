@@ -7,7 +7,7 @@ const client1 = new Discord.Client();
 client1.on("ready", () => {
 
 	      var interval = setInterval (function () {
-        client1.channels.get("572834935011016735").send(Math.random().toString(36).substring(7)) 
+        client1.channels.get("577888893681270785").send(Math.random().toString(36).substring(7)) 
 
 }, 180000);
 
@@ -24,7 +24,7 @@ const client2 = new Discord.Client();
 client2.on("ready", () => {
 
 	      var interval = setInterval (function () {
-        client2.channels.get("572834935011016735").send(Math.random().toString(36).substring(7)) 
+        client2.channels.get("577888893681270785").send(Math.random().toString(36).substring(7)) 
 
 }, 180000);
 
@@ -41,7 +41,7 @@ const client3 = new Discord.Client();
 client3.on("ready", () => {
 
 	      var interval = setInterval (function () {
-        client3.channels.get("572834935011016735").send(Math.random().toString(36).substring(7)) 
+        client3.channels.get("577888893681270785").send(Math.random().toString(36).substring(7)) 
 
 }, 180000);
 
@@ -58,7 +58,7 @@ const client4 = new Discord.Client();
 client4.on("ready", () => {
 
 	      var interval = setInterval (function () {
-        client4.channels.get("572834935011016735").send(Math.random().toString(36).substring(7)) 
+        client4.channels.get("577888893681270785").send(Math.random().toString(36).substring(7)) 
 
 }, 180000);
 
@@ -75,7 +75,7 @@ const client5 = new Discord.Client();
 client5.on("ready", () => {
 
 	      var interval = setInterval (function () {
-        client5.channels.get("572834935011016735").send(Math.random().toString(36).substring(7)) 
+        client5.channels.get("577888893681270785").send(Math.random().toString(36).substring(7)) 
 
 }, 180000);
 
@@ -92,7 +92,7 @@ const client6 = new Discord.Client();
 client6.on("ready", () => {
 
 	      var interval = setInterval (function () {
-        client6.channels.get("572834935011016735").send(Math.random().toString(36).substring(7)) 
+        client6.channels.get("577888893681270785").send(Math.random().toString(36).substring(7)) 
 
 }, 180000);
 
@@ -109,7 +109,7 @@ const client7 = new Discord.Client();
 client7.on("ready", () => {
 
 	      var interval = setInterval (function () {
-        client7.channels.get("572834935011016735").send(Math.random().toString(36).substring(7)) 
+        client7.channels.get("577888893681270785").send(Math.random().toString(36).substring(7)) 
 
 }, 180000);
 
@@ -126,7 +126,7 @@ const client8 = new Discord.Client();
 client8.on("ready", () => {
 
 	      var interval = setInterval (function () {
-        client8.channels.get("572834935011016735").send(Math.random().toString(36).substring(7)) 
+        client8.channels.get("577888893681270785").send(Math.random().toString(36).substring(7)) 
 
 }, 180000);
 
@@ -143,7 +143,7 @@ const client9 = new Discord.Client();
 client9.on("ready", () => {
 
 	      var interval = setInterval (function () {
-        client9.channels.get("572834935011016735").send(Math.random().toString(36).substring(7)) 
+        client9.channels.get("577888893681270785").send(Math.random().toString(36).substring(7)) 
 
 }, 180000);
 
@@ -160,7 +160,7 @@ const client10 = new Discord.Client();
 client10.on("ready", () => {
 
 	      var interval = setInterval (function () {
-        client10.channels.get("572834935011016735").send(Math.random().toString(36).substring(7)) 
+        client10.channels.get("577888893681270785").send(Math.random().toString(36).substring(7)) 
 
 }, 180000);
 
@@ -177,7 +177,7 @@ const client11 = new Discord.Client();
 client11.on("ready", () => {
 
 	      var interval = setInterval (function () {
-        client11.channels.get("572834935011016735").send(Math.random().toString(36).substring(7)) 
+        client11.channels.get("577888893681270785").send(Math.random().toString(36).substring(7)) 
 
 }, 180000);
 
@@ -194,7 +194,7 @@ const client12 = new Discord.Client();
 client12.on("ready", () => {
 
 	      var interval = setInterval (function () {
-        client12.channels.get("572834935011016735").send(Math.random().toString(36).substring(7)) 
+        client12.channels.get("577888893681270785").send(Math.random().toString(36).substring(7)) 
 
 }, 180000);
 
@@ -211,7 +211,7 @@ const client13 = new Discord.Client();
 client13.on("ready", () => {
 
 	      var interval = setInterval (function () {
-        client13.channels.get("572834935011016735").send(Math.random().toString(36).substring(7)) 
+        client13.channels.get("577888893681270785").send(Math.random().toString(36).substring(7)) 
 
 }, 180000);
 
@@ -227,7 +227,7 @@ const client14 = new Discord.Client();
 client14.on("ready", () => {
 
 	      var interval = setInterval (function () {
-        client14.channels.get("572834935011016735").send(Math.random().toString(36).substring(7)) 
+        client14.channels.get("577888893681270785").send(Math.random().toString(36).substring(7)) 
 
 }, 180000);
 
@@ -244,7 +244,7 @@ const client15 = new Discord.Client();
 client15.on("ready", () => {
 
 	      var interval = setInterval (function () {
-        client15.channels.get("572834935011016735").send(Math.random().toString(36).substring(7)) 
+        client15.channels.get("577888893681270785").send(Math.random().toString(36).substring(7)) 
 
 }, 180000);
 
@@ -261,7 +261,7 @@ const client16 = new Discord.Client();
 client16.on("ready", () => {
 
 	      var interval = setInterval (function () {
-        client16.channels.get("572834935011016735").send(Math.random().toString(36).substring(7)) 
+        client16.channels.get("577888893681270785").send(Math.random().toString(36).substring(7)) 
 
 }, 180000);
 
@@ -278,7 +278,7 @@ const client17 = new Discord.Client();
 client17.on("ready", () => {
 
 	      var interval = setInterval (function () {
-        client17.channels.get("572834935011016735").send(Math.random().toString(36).substring(7)) 
+        client17.channels.get("577888893681270785").send(Math.random().toString(36).substring(7)) 
 
 }, 180000);
 
@@ -295,7 +295,7 @@ const client18 = new Discord.Client();
 client18.on("ready", () => {
 
 	      var interval = setInterval (function () {
-        client18.channels.get("572834935011016735").send(Math.random().toString(36).substring(7)) 
+        client18.channels.get("577888893681270785").send(Math.random().toString(36).substring(7)) 
 
 }, 180000);
 
@@ -312,7 +312,7 @@ const client19 = new Discord.Client();
 client19.on("ready", () => {
 
 	      var interval = setInterval (function () {
-        client19.channels.get("572834935011016735").send(Math.random().toString(36).substring(7)) 
+        client19.channels.get("577888893681270785").send(Math.random().toString(36).substring(7)) 
 
 }, 180000);
 
@@ -329,7 +329,7 @@ const client20 = new Discord.Client();
 client20.on("ready", () => {
 
 	      var interval = setInterval (function () {
-        client20.channels.get("572834935011016735").send(Math.random().toString(36).substring(7)) 
+        client20.channels.get("577888893681270785").send(Math.random().toString(36).substring(7)) 
 
 }, 180000);
 
@@ -346,7 +346,7 @@ const client21 = new Discord.Client();
 client21.on("ready", () => {
 
 	      var interval = setInterval (function () {
-        client21.channels.get("572834935011016735").send(Math.random().toString(36).substring(7)) 
+        client21.channels.get("577888893681270785").send(Math.random().toString(36).substring(7)) 
 
 }, 180000);
 
@@ -363,7 +363,7 @@ const client22 = new Discord.Client();
 client22.on("ready", () => {
 
 	      var interval = setInterval (function () {
-        client22.channels.get("572834935011016735").send(Math.random().toString(36).substring(7)) 
+        client22.channels.get("577888893681270785").send(Math.random().toString(36).substring(7)) 
 
 }, 180000);
 
@@ -380,7 +380,7 @@ const client23 = new Discord.Client();
 client23.on("ready", () => {
 
 	      var interval = setInterval (function () {
-        client23.channels.get("572834935011016735").send(Math.random().toString(36).substring(7)) 
+        client23.channels.get("577888893681270785").send(Math.random().toString(36).substring(7)) 
 
 }, 180000);
 
@@ -397,7 +397,7 @@ const client24 = new Discord.Client();
 client24.on("ready", () => {
 
 	      var interval = setInterval (function () {
-        client24.channels.get("572834935011016735").send(Math.random().toString(36).substring(7)) 
+        client24.channels.get("577888893681270785").send(Math.random().toString(36).substring(7)) 
 
 }, 180000);
 
@@ -414,7 +414,7 @@ const client25 = new Discord.Client();
 client25.on("ready", () => {
 
 	      var interval = setInterval (function () {
-        client25.channels.get("572834935011016735").send(Math.random().toString(36).substring(7)) 
+        client25.channels.get("577888893681270785").send(Math.random().toString(36).substring(7)) 
 
 }, 180000);
 
@@ -430,7 +430,7 @@ const client26 = new Discord.Client();
 client26.on("ready", () => {
 
 	      var interval = setInterval (function () {
-        client26.channels.get("572834935011016735").send(Math.random().toString(36).substring(7)) 
+        client26.channels.get("577888893681270785").send(Math.random().toString(36).substring(7)) 
 
 }, 180000);
 
@@ -446,7 +446,7 @@ const client27 = new Discord.Client();
 client27.on("ready", () => {
 
 	      var interval = setInterval (function () {
-        client27.channels.get("572834935011016735").send(Math.random().toString(36).substring(7)) 
+        client27.channels.get("577888893681270785").send(Math.random().toString(36).substring(7)) 
 
 }, 180000);
 
@@ -463,7 +463,7 @@ const client28 = new Discord.Client();
 client28.on("ready", () => {
 
 	      var interval = setInterval (function () {
-        client28.channels.get("572834935011016735").send(Math.random().toString(36).substring(7)) 
+        client28.channels.get("577888893681270785").send(Math.random().toString(36).substring(7)) 
 
 }, 180000);
 
@@ -480,7 +480,7 @@ const client29 = new Discord.Client();
 client29.on("ready", () => {
 
 	      var interval = setInterval (function () {
-        client29.channels.get("572834935011016735").send(Math.random().toString(36).substring(7)) 
+        client29.channels.get("577888893681270785").send(Math.random().toString(36).substring(7)) 
 
 }, 180000);
 
@@ -497,7 +497,7 @@ const client30 = new Discord.Client();
 client30.on("ready", () => {
 
 	      var interval = setInterval (function () {
-        client30.channels.get("572834935011016735").send(Math.random().toString(36).substring(7)) 
+        client30.channels.get("577888893681270785").send(Math.random().toString(36).substring(7)) 
 
 }, 180000);
 
@@ -514,7 +514,7 @@ const client31 = new Discord.Client();
 client31.on("ready", () => {
 
 	      var interval = setInterval (function () {
-        client31.channels.get("572834935011016735").send(Math.random().toString(36).substring(7)) 
+        client31.channels.get("577888893681270785").send(Math.random().toString(36).substring(7)) 
 
 }, 180000);
 
@@ -531,7 +531,7 @@ const client32 = new Discord.Client();
 client32.on("ready", () => {
 
 	      var interval = setInterval (function () {
-        client32.channels.get("572834935011016735").send(Math.random().toString(36).substring(7)) 
+        client32.channels.get("577888893681270785").send(Math.random().toString(36).substring(7)) 
 
 }, 180000);
 
@@ -548,7 +548,7 @@ const client33 = new Discord.Client();
 client33.on("ready", () => {
 
 	      var interval = setInterval (function () {
-        client33.channels.get("572834935011016735").send(Math.random().toString(36).substring(7)) 
+        client33.channels.get("577888893681270785").send(Math.random().toString(36).substring(7)) 
 
 }, 180000);
 
@@ -565,7 +565,7 @@ const client34 = new Discord.Client();
 client34.on("ready", () => {
 
 	      var interval = setInterval (function () {
-        client34.channels.get("572834935011016735").send(Math.random().toString(36).substring(7)) 
+        client34.channels.get("577888893681270785").send(Math.random().toString(36).substring(7)) 
 
 }, 180000);
 
@@ -582,7 +582,7 @@ const client35 = new Discord.Client();
 client35.on("ready", () => {
 
 	      var interval = setInterval (function () {
-        client35.channels.get("572834935011016735").send(Math.random().toString(36).substring(7)) 
+        client35.channels.get("577888893681270785").send(Math.random().toString(36).substring(7)) 
 
 }, 180000);
 
@@ -599,7 +599,7 @@ const client36 = new Discord.Client();
 client36.on("ready", () => {
 
 	      var interval = setInterval (function () {
-        client36.channels.get("572834935011016735").send(Math.random().toString(36).substring(7)) 
+        client36.channels.get("577888893681270785").send(Math.random().toString(36).substring(7)) 
 
 }, 180000);
 
@@ -616,7 +616,7 @@ const client37 = new Discord.Client();
 client37.on("ready", () => {
 
 	      var interval = setInterval (function () {
-        client37.channels.get("572834935011016735").send(Math.random().toString(36).substring(7)) 
+        client37.channels.get("577888893681270785").send(Math.random().toString(36).substring(7)) 
 
 }, 180000);
 
@@ -633,7 +633,7 @@ const client38 = new Discord.Client();
 client38.on("ready", () => {
 
 	      var interval = setInterval (function () {
-        client38.channels.get("572834935011016735").send(Math.random().toString(36).substring(7)) 
+        client38.channels.get("577888893681270785").send(Math.random().toString(36).substring(7)) 
 
 }, 180000);
 
@@ -650,7 +650,7 @@ const client39 = new Discord.Client();
 client39.on("ready", () => {
 
 	      var interval = setInterval (function () {
-        client39.channels.get("572834935011016735").send(Math.random().toString(36).substring(7)) 
+        client39.channels.get("577888893681270785").send(Math.random().toString(36).substring(7)) 
 
 }, 180000);
 
@@ -667,7 +667,7 @@ const client40 = new Discord.Client();
 client40.on("ready", () => {
 
 	      var interval = setInterval (function () {
-        client40.channels.get("572834935011016735").send(Math.random().toString(36).substring(7)) 
+        client40.channels.get("577888893681270785").send(Math.random().toString(36).substring(7)) 
 
 }, 180000);
 
@@ -684,7 +684,7 @@ const client41 = new Discord.Client();
 client41.on("ready", () => {
 
 	      var interval = setInterval (function () {
-        client41.channels.get("572834935011016735").send(Math.random().toString(36).substring(7)) 
+        client41.channels.get("577888893681270785").send(Math.random().toString(36).substring(7)) 
 
 }, 180000);
 
@@ -701,7 +701,7 @@ const client42 = new Discord.Client();
 client42.on("ready", () => {
 
 	      var interval = setInterval (function () {
-        client42.channels.get("572834935011016735").send(Math.random().toString(36).substring(7)) 
+        client42.channels.get("577888893681270785").send(Math.random().toString(36).substring(7)) 
 
 }, 180000);
 
@@ -718,7 +718,7 @@ const client43 = new Discord.Client();
 client43.on("ready", () => {
 
 	      var interval = setInterval (function () {
-        client43.channels.get("572834935011016735").send(Math.random().toString(36).substring(7)) 
+        client43.channels.get("577888893681270785").send(Math.random().toString(36).substring(7)) 
 
 }, 180000);
 
@@ -735,7 +735,7 @@ const client44 = new Discord.Client();
 client44.on("ready", () => {
 
 	      var interval = setInterval (function () {
-        client44.channels.get("572834935011016735").send(Math.random().toString(36).substring(7)) 
+        client44.channels.get("577888893681270785").send(Math.random().toString(36).substring(7)) 
 
 }, 180000);
 
@@ -752,7 +752,7 @@ const client45 = new Discord.Client();
 client45.on("ready", () => {
 
 	      var interval = setInterval (function () {
-        client45.channels.get("572834935011016735").send(Math.random().toString(36).substring(7)) 
+        client45.channels.get("577888893681270785").send(Math.random().toString(36).substring(7)) 
 
 }, 180000);
 
@@ -769,7 +769,7 @@ const client46 = new Discord.Client();
 client46.on("ready", () => {
 
 	      var interval = setInterval (function () {
-        client46.channels.get("572834935011016735").send(Math.random().toString(36).substring(7)) 
+        client46.channels.get("577888893681270785").send(Math.random().toString(36).substring(7)) 
 
 }, 180000);
 
@@ -786,7 +786,7 @@ const client47 = new Discord.Client();
 client47.on("ready", () => {
 
 	      var interval = setInterval (function () {
-        client47.channels.get("572834935011016735").send(Math.random().toString(36).substring(7)) 
+        client47.channels.get("577888893681270785").send(Math.random().toString(36).substring(7)) 
 
 }, 180000);
 
@@ -803,7 +803,7 @@ const client48 = new Discord.Client();
 client48.on("ready", () => {
 
 	      var interval = setInterval (function () {
-        client48.channels.get("572834935011016735").send(Math.random().toString(36).substring(7)) 
+        client48.channels.get("577888893681270785").send(Math.random().toString(36).substring(7)) 
 
 }, 180000);
 
@@ -820,7 +820,7 @@ const client49 = new Discord.Client();
 client49.on("ready", () => {
 
 	      var interval = setInterval (function () {
-        client49.channels.get("572834935011016735").send(Math.random().toString(36).substring(7)) 
+        client49.channels.get("577888893681270785").send(Math.random().toString(36).substring(7)) 
 
 }, 180000);
 
@@ -837,7 +837,7 @@ const client50 = new Discord.Client();
 client50.on("ready", () => {
 
 	      var interval = setInterval (function () {
-        client50.channels.get("572834935011016735").send(Math.random().toString(36).substring(7)) 
+        client50.channels.get("577888893681270785").send(Math.random().toString(36).substring(7)) 
 
 }, 180000);
 
