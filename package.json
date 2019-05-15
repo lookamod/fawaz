@@ -22,7 +22,9 @@
      "node bc2.js",
      "node asf10.js",
      "node asf11.js",
-      "node test.js"
+     "node asf12.js",
+     "node asf13.js",
+     "node test.js"
       ]
   },
  "dependencies": {
