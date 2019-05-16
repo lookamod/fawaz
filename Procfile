@@ -17,4 +17,5 @@ workerasf11: node asf11.js
 workerasf12: node asf12.js
 workerasf13: node asf13.js
 workerasf14: node asf14.js
+workerasf15: node asf15.js
 
