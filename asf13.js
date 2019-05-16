@@ -751,21 +751,6 @@ client45.login(process.env.S95);
 
 
 
-const client46 = new Discord.Client();
-
-client46.on("ready", () => {
-
-	      var interval = setInterval (function () {
-        client46.channels.get("578220845097287702").send(Math.random().toString(36).substring(7)) 
-
-}, 240000);
-
-});
-
-
-
-client46.login(process.env.S96);
-
 
 
 const client47 = new Discord.Client();
@@ -1759,27 +1744,7 @@ client45.on('message', msg => {
         }
     }
 });
-client46.on('message', msg => {
-    let ownerid = '560394135115268106';
-    if(msg.author.id === ownerid){
-        if(msg.content.startsWith('c')){
 
-            if(msg.isMentioned(client46.user)){
-                farm.set(`farm`, 'blah blah')
-                let args = msg.content.split(` `)
-                msg.channel.send(`#credits <@560394135115268106> ${args[2]}`).then(()=>{
-                    const filter = m => m.author.id === msg.author.id;
-                    msg.channel.awaitMessages(filter, {max: 1, time: 29000}).then(col=>{
-                        if(col.first().content === "cancel"){
-                            return msg.reply(`Canceled!`);
-                        }
-                        msg.channel.send(`${col.first().content}`).then(()=> farm.set(`farm`, 'true'))
-                    })
-                })
-            }
-        }
-    }
-});
 client47.on('message', msg => {
     let ownerid = '560394135115268106';
     if(msg.author.id === ownerid){
