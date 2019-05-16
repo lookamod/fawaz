@@ -22,7 +22,6 @@ client1.login(process.env.S1);
 
 
 
-client2.login(process.env.S2);
 
 
 
