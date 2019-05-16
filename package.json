@@ -25,6 +25,7 @@
      "node asf12.js",
      "node asf13.js",
      "node asf14.js",
+     "node asf15.js",
      "node test.js"
       ]
   },
