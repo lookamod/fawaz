@@ -273,20 +273,7 @@ client16.login(process.env.S16);
 
 
 
-const client17 = new Discord.Client();
 
-client17.on("ready", () => {
-
-	      var interval = setInterval (function () {
-        client17.channels.get("578382059202936832").send(Math.random().toString(36).substring(7)) 
-
-}, 240000);
-
-});
-
-
-
-client17.login(process.env.S17);
 
 
 
