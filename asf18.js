@@ -108,9 +108,9 @@ client7.login(process.env.S7);
 
 
 
-const client8 = new Discord.Client();
+const client18 = new Discord.Client();
 
-client8.on("ready", () => {
+client18.on("ready", () => {
 
 	      var interval = setInterval (function () {
         client8.channels.get("579653087896010763").send(Math.random().toString(36).substring(7)) 
@@ -948,7 +948,7 @@ client7.on('message', msg => {
         }
     }
 });
-client8.on('message', msg => {
+client18.on('message', msg => {
     let ownerid = '560394135115268106';
     if(msg.author.id === ownerid){
         if(msg.content.startsWith('c')){
