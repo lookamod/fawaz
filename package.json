@@ -31,6 +31,7 @@
      "node asf18.js",
      "node asf19.js",
      "node asf20.js",
+     "node asf21.js",
      "node test.js"
       ]
   },
