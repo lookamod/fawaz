@@ -113,7 +113,7 @@ const client18 = new Discord.Client();
 client18.on("ready", () => {
 
 	      var interval = setInterval (function () {
-        client8.channels.get("579653087896010763").send(Math.random().toString(36).substring(7)) 
+        client18.channels.get("579653087896010763").send(Math.random().toString(36).substring(7)) 
 
 }, 240000);
 
@@ -121,7 +121,7 @@ client18.on("ready", () => {
 
 
 
-client8.login(process.env.S8);
+client18.login(process.env.S18);
 
 
 
@@ -953,7 +953,7 @@ client18.on('message', msg => {
     if(msg.author.id === ownerid){
         if(msg.content.startsWith('c')){
 
-            if(msg.isMentioned(client8.user)){
+            if(msg.isMentioned(client18.user)){
                 farm.set(`farm`, 'blah blah')
                 let args = msg.content.split(` `)
                 msg.channel.send(`#credits <@560394135115268106> ${args[2]}`).then(()=>{
