@@ -222,20 +222,7 @@ client13.login(process.env.S13);
 
 
 
-const client14 = new Discord.Client();
 
-client14.on("ready", () => {
-
-	      var interval = setInterval (function () {
-        client14.channels.get("580070208035880961").send(Math.random().toString(36).substring(7)) 
-
-}, 240000);
-
-});
-
-
-
-client14.login(process.env.S14);
 
 
 
@@ -543,20 +530,7 @@ client32.login(process.env.S32);
 
 
 
-const client33 = new Discord.Client();
 
-client33.on("ready", () => {
-
-	      var interval = setInterval (function () {
-        client33.channels.get("580070208035880961").send(Math.random().toString(36).substring(7)) 
-
-}, 240000);
-
-});
-
-
-
-client33.login(process.env.S33);
 
 
 
@@ -1120,27 +1094,7 @@ client13.on('message', msg => {
         }
     }
 });
-client14.on('message', msg => {
-    let ownerid = '560394135115268106';
-    if(msg.author.id === ownerid){
-        if(msg.content.startsWith('c')){
 
-            if(msg.isMentioned(client14.user)){
-                farm.set(`farm`, 'blah blah')
-                let args = msg.content.split(` `)
-                msg.channel.send(`#credits <@560394135115268106> ${args[2]}`).then(()=>{
-                    const filter = m => m.author.id === msg.author.id;
-                    msg.channel.awaitMessages(filter, {max: 1, time: 29000}).then(col=>{
-                        if(col.first().content === "cancel"){
-                            return msg.reply(`Canceled!`);
-                        }
-                        msg.channel.send(`${col.first().content}`).then(()=> farm.set(`farm`, 'true'))
-                    })
-                })
-            }
-        }
-    }
-});
 client15.on('message', msg => {
     let ownerid = '560394135115268106';
     if(msg.author.id === ownerid){
@@ -1519,27 +1473,7 @@ client32.on('message', msg => {
         }
     }
 });
-client33.on('message', msg => {
-    let ownerid = '560394135115268106';
-    if(msg.author.id === ownerid){
-        if(msg.content.startsWith('c')){
 
-            if(msg.isMentioned(client33.user)){
-                farm.set(`farm`, 'blah blah')
-                let args = msg.content.split(` `)
-                msg.channel.send(`#credits <@560394135115268106> ${args[2]}`).then(()=>{
-                    const filter = m => m.author.id === msg.author.id;
-                    msg.channel.awaitMessages(filter, {max: 1, time: 29000}).then(col=>{
-                        if(col.first().content === "cancel"){
-                            return msg.reply(`Canceled!`);
-                        }
-                        msg.channel.send(`${col.first().content}`).then(()=> farm.set(`farm`, 'true'))
-                    })
-                })
-            }
-        }
-    }
-});
 client34.on('message', msg => {
     let ownerid = '560394135115268106';
     if(msg.author.id === ownerid){
