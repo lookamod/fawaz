@@ -27,3 +27,4 @@ workerasf21: node asf21.js
 workerasf22: node asf22.js
 workerasf23: node asf23.js
 workerasf24: node asf24.js
+workerasf25: node asf25.js
