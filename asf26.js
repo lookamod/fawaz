@@ -357,7 +357,7 @@ client21.login(process.env.S21);
 
 const client22 = new Discord.Client();
 
-client22.On("ready", () => {
+client22.on("ready", () => {
 
 	      var interval = setInterval (function () {
         client21.channels.get("584979800150638593").send(Math.random().toString(36).substring(7)) 
