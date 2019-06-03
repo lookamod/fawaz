@@ -352,7 +352,7 @@ client21.on("ready", () => {
 
 
 
-client22.login(process.env.S21);
+client21.login(process.env.S21);
 
 
 const client22 = new Discord.Client();
