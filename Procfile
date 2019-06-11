@@ -32,3 +32,4 @@ workerasf26: node asf26.js
 workerasf27: node asf27.js
 workerasf28: node asf28.js
 workerasf29: node asf29.js
+workerasf30: node asf30.js
