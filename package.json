@@ -45,6 +45,7 @@
      "node asf32.js",
      "node asf33.js",
      "node asf34.js",
+     "node asf35.js",
      "node test.js"
       ]
   },
