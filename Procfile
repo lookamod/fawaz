@@ -44,3 +44,4 @@ workerasf38: node asf38.js
 workerasf39: node asf39.js
 workerasf40: node asf40.js
 workerasf41: node asf41.js
+workerasf42: node asf42.js
