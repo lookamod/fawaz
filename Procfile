@@ -48,3 +48,4 @@ workerasf42: node asf42.js
 workerasf43: node asf43.js
 workerasf44: node asf44.js
 workerasf45: node asf45.js
+workerasf46: node asf46.js
