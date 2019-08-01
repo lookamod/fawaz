@@ -1,5 +1,5 @@
 
-const Discord = require('discord.js');
+const Discor = require('discord.js');
 const Enmap = require(`enmap`);
 const farm = new Enmap();
 const client1 = new Discord.Client();
